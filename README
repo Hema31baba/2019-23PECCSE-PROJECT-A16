@@ -1,0 +1,27 @@
+2019-23PECCSE-PROJECT-A16
+Project Title - Prediction of Hate Speech Classification using supervised machine learning technique with NLP
+
+Team id - A16
+Team Members
+ASWINI T (Team Member 1) - 211419104031 HEMALATHA P (Team Member 2) - 211419104100 KAVYA S (Team Member 3) - 211419104135
+
+Project Description
+The goal is to develop a machine learning model for hate speech  Prediction, to potentially replace the updatable supervised machine learning classification models by predicting results in the form of best accuracy by comparing supervised algorithms. The main Scope is to detect the hate speech, which is a classic text classification problem with a help of NLP and machine learning algorithm. It is needed to build a model that can differentiate between hate speech or not.
+
+
+Project Requirements
+1. Software Requirements:
+	Operating System 	: Windows 
+	Tool   		: Anaconda with Jupyter Notebook
+2. Hardware requirements:
+	Processor   		: Pentium IV/III
+	Hard disk   		: minimum 80 GB
+	RAM        		: minimum 2 GB
+  
+LIST OF MODULES
+1)Data Pre-processing
+2)Data Visualization
+3.1)Implementing Random Forest Classifier Algorithm
+3.2)Implementing Naive Bayes Algorithm
+3.3)Implementing Gradient Boosting Algorithm
+4)Deployment Using Flask
